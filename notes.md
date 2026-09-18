@@ -37,3 +37,12 @@ python -c "import torch; print(torch.cuda.is\_available())"
 ## ***day2*** 
 tensor:
 <img width="1747" height="893" alt="image" src="https://github.com/user-attachments/assets/b6fc230e-f621-4269-8355-29266b91d17b" />
+shape = (32, 3, 224, 224) 分别代表什么？
+torch.randn 和 torch.rand 区别是啥？
+为什么要 .to("cuda")？
+<img width="1237" height="917" alt="image" src="https://github.com/user-attachments/assets/b2ea4c04-4a18-4aea-b6bc-fff2c5093a9d" />
+train_dataset[0] 返回啥？（答案：(img, label)，img 是 (1,28,28)）
+len(train_dataset) 是多少？（答案：60000）
+一个 batch 的 imgs.shape 是多少？（答案：(32, 1, 28, 28)）
+B、C、H、W 分别是啥？（下面详细讲）
+<img width="1109" height="526" alt="image" src="https://github.com/user-attachments/assets/4b7e22dd-d3cb-43ec-80b2-2967f2609a2b" />
