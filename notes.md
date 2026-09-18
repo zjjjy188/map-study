@@ -34,3 +34,6 @@ python -c "import torch; print(torch.cuda.is\_available())"
 
 看到 True 就可以开始学习了。
 
+## ***day2*** 
+tensor:
+<img width="1747" height="893" alt="image" src="https://github.com/user-attachments/assets/b6fc230e-f621-4269-8355-29266b91d17b" />
