@@ -46,3 +46,13 @@ len(train_dataset) 是多少？（答案：60000）
 一个 batch 的 imgs.shape 是多少？（答案：(32, 1, 28, 28)）
 B、C、H、W 分别是啥？（下面详细讲）
 <img width="1109" height="526" alt="image" src="https://github.com/user-attachments/assets/4b7e22dd-d3cb-43ec-80b2-2967f2609a2b" />
+
+
+## ***day3 cnn+训练循环*** 
+<img width="1373" height="704" alt="image" src="https://github.com/user-attachments/assets/4ba4b5dc-7bd9-4e46-9999-8b07c8e29e61" />
+<img width="1299" height="931" alt="image" src="https://github.com/user-attachments/assets/89cf85fa-30ae-4c38-b7d0-3b6dbdd29091" />
+
+## ***day4 目标检测基础（yolo）*** 
+概念
+<img width="1134" height="578" alt="image" src="https://github.com/user-attachments/assets/011e369c-d322-48f3-a1f2-ce849d359837" />
+<img width="1133" height="867" alt="image" src="https://github.com/user-attachments/assets/defff233-c9b7-457b-a0e1-684e989c7250" />
