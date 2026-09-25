@@ -56,3 +56,13 @@ B、C、H、W 分别是啥？（下面详细讲）
 概念
 <img width="1134" height="578" alt="image" src="https://github.com/user-attachments/assets/011e369c-d322-48f3-a1f2-ce849d359837" />
 <img width="1133" height="867" alt="image" src="https://github.com/user-attachments/assets/defff233-c9b7-457b-a0e1-684e989c7250" />
+
+## ***day5 分割基础*** 
+学习重点：Semantic Segmentation、mask、U-Net 思路。
+动手任务：运行一个现成分割 demo，观察 mask。
+今日产出：原图+mask。
+今日验收：能解释“每个像素属于什么类别”。
+<img width="1248" height="974" alt="image" src="https://github.com/user-attachments/assets/d28359ee-5ca4-40b2-9fc3-d3c556e0a3a6" />
+<img width="1271" height="646" alt="image" src="https://github.com/user-attachments/assets/3db956b3-9b7a-4e86-92b8-039ba9ec6131" />
+
+## ***day6 OCR + 地图小实验***

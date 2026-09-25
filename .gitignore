@@ -26,3 +26,7 @@ data/
 # 日志
 *.log
 day2_train_log.txt
+
+# 忽略 YOLO 下载的临时文件
+*.part
+yolov8*.pt
