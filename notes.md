@@ -66,3 +66,11 @@ B、C、H、W 分别是啥？（下面详细讲）
 <img width="1271" height="646" alt="image" src="https://github.com/user-attachments/assets/3db956b3-9b7a-4e86-92b8-039ba9ec6131" />
 
 ## ***day6 OCR + 地图小实验***
+知识点
+<img width="1175" height="434" alt="image" src="https://github.com/user-attachments/assets/7843c922-fa8f-44d5-97d6-01bbc9921fd9" />
+
+遇到的困难
+<img width="1184" height="732" alt="image" src="https://github.com/user-attachments/assets/e00d34ab-2700-48d4-966d-9b17599c676c" />
+
+git技能
+<img width="1177" height="580" alt="image" src="https://github.com/user-attachments/assets/da6b033b-cb8c-4cde-b856-da5a29c1c132" />
