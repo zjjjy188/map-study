@@ -1,0 +1,9 @@
+项目：AGI-GIS/MapReader
+代码版本：4d6d4598cb3fbbb9376ff5bd6c62fde344c2dd23
+环境：RTX 4060 8GB；PyTorch 2.6.0+cu124；CUDA可用
+样例：data/MapEval-DB/Country/China/Map/12_16.jpg
+初始阶段：数据核查，当时尚未运行模型
+
+2026-11-22进度更新：已使用SmolVLM-500M-Instruct在本机完成两次推理；MapReader原模型尚未运行。
+图片核查：图中可见长江与G70跨河；仅凭该图无法确认参考描述中的水流方向。
+结果记录：model_results.json。

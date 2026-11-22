@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-22",
+  "model_id": "HuggingFaceTB/SmolVLM-500M-Instruct",
+  "weights_revision_from_download_metadata": "753c1752602b5e739af7a7fa6947a635051897a3",
+  "data_repository": "https://github.com/AGI-GIS/MapReader",
+  "data_commit": "4d6d4598cb3fbbb9376ff5bd6c62fde344c2dd23",
+  "image": "data/MapEval-DB/Country/China/Map/12_16.jpg",
+  "image_size": [256, 256],
+  "generation": {"max_new_tokens": 100, "do_sample": false},
+  "runs": [
+    {
+      "id": "run01",
+      "question": "Describe the main features visible in this map.",
+      "answer": "The image is a detailed map of a city, specifically focusing on a section of the city called YANGLU. The map includes various elements such as roads, streets, and landmarks. Here is a detailed description of the map:\n\n### Map Description\n\n#### Road and Street Layout\n- **YANGLU Residential District**: This is a residential area marked by a blue line on the map.\n- **SHAZICUCN**: This is a street marked by a red line",
+      "source": "用户终端截图，与助手另一次同脚本复跑文本一致",
+      "review": "存在地名误读、将村名归为街道及缺少图像支持的蓝线描述；句中结束可能受到输出长度限制，原因未单独验证。"
+    },
+    {
+      "id": "run02",
+      "question": "Does the G70 highway cross the river in this map? Answer briefly.",
+      "reported_answer": "yes",
+      "source": "用户反馈，未收集完整终端原始文本",
+      "review": "回答与图中G70跨河情况一致；不据单个样例判断整体能力。"
+    }
+  ]
+}

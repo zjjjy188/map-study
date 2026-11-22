@@ -30,3 +30,6 @@ day2_train_log.txt
 # 忽略 YOLO 下载的临时文件
 *.part
 yolov8*.pt
+
+# 单独克隆的官方上游仓库
+/MapReader/
